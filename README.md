@@ -11,5 +11,8 @@ This Power BI report visualizes sales data across different regions and products
 - `Zomato_Sales_Dashboard.pbix`: The main Power BI report
 - `Zomato1.png`, `Zomato2.png`: Preview of the dashboard
 
+![Dashboard Preview](Zomato1.png)
+![Dashboard Preview](Zomato2.png)
+
 ## Author
 Chirag Pal
